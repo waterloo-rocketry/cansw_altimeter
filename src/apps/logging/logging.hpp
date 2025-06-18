@@ -1,0 +1,5 @@
+#ifndef APPS_LOGGING_LOGGING_HPP
+#define APPS_LOGGING_LOGGING_HPP
+
+
+#endif
