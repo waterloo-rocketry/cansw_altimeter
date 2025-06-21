@@ -1,6 +1,4 @@
 #ifndef DRIVERS_ALTIMU10_ALTIMU10_H
 #define DRIVERS_ALTIMU10_ALTIMU10_H
 
-
-
 #endif
