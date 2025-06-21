@@ -3,6 +3,8 @@ name: STM32CubeIDE Compile Check
 # Runs on pushes to pull request
 on: pull_request
 
+permissions: {}
+
 jobs:
   cubeide-compile-check:
     name: STM32CubeIDE Compile Check (Debug + Release)
